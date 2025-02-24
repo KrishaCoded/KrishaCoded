@@ -14,7 +14,7 @@ Welcome to my little corner of the internet! I'm a **Computer Science + AI stude
 `💻` Python, JavaScript, HTML, CSS, C  
 `🎨` Figma, Git, GitHub, VS Code  
 `✨` Interests: UX/UI Design, AI, Front-end Dev, drawing, reading, learning languages <br>
-
+<br>
 
 📚 **Let’s Connect!**  
 - 🌸 [LinkedIn](www.linkedin.com/in/krisha-gurung)  
