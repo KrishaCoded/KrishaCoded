@@ -1,5 +1,5 @@
 🎀✨ **Hey there! I'm Krisha!** ✨🎀  
-Welcome to my little corner of the internet! I'm a **Computer Science + AI student** at UNO, passionate about **UI/UX design, front-end development, and AI**. I love bringing ideas to life with code & design!< br / >
+Welcome to my little corner of the internet! I'm a **Computer Science + AI student** at UNO, passionate about **UI/UX design, front-end development, and AI**. I love bringing ideas to life with code & design! <br/>
 
 
 🌸 **What I’m up to:**  
