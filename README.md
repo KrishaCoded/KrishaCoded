@@ -5,19 +5,19 @@ Welcome to my little corner of the internet! I'm a **Computer Science + AI stude
 🌸 **What I’m up to:**  
 - 🌙 Designing a **dark mode UI for BodyFast** 🖤  
 - 🌷 Building my **personal website** from scratch    
-- 🍜 Learning **JavaScript animations** for interactive UIs < br / >
+- 🍜 Learning **JavaScript animations** for interactive UIs <br/>
 
 
 🎀 **Tech & Tools I Use:**  
 `💻` Python, JavaScript, HTML, CSS, C  
 `🎨` Figma, Git, GitHub, VS Code  
-`✨` Interests: UX/UI Design, AI, Front-end Dev, drawing, reading, learning languages < br / >
+`✨` Interests: UX/UI Design, AI, Front-end Dev, drawing, reading, learning languages <br/>
 
 
 📚 **Let’s Connect!**  
 - 🌸 [LinkedIn](www.linkedin.com/in/krisha-gurung)  
 - 🌙 [Portfolio Website (Coming Soon!)](your-portfolio-link)  
-- 🍀 [GitHub Projects](https://github.com/KrishaCoded)  < br / >
+- 🍀 [GitHub Projects](https://github.com/KrishaCoded)  <br/>
 
 
 🍀 **Fun Facts About Me:** 🎧🎀
