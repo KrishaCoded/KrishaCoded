@@ -30,4 +30,5 @@ Welcome to my little corner of the internet! I'm a **Computer Science + AI stude
 - 🌙 I love staying up late, but my brain checks out after 11 PM— a mystery of science 🔍💤
 
 - ![Krisha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KrishaCoded&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical)
+[![trophy](https://github-profile-trophy.vercel.app/?username=KrishaCoded)](https://github.com/YourGitHubUsername)
 
