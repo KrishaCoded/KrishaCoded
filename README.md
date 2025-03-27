@@ -4,7 +4,6 @@ Welcome to my little corner of the internet! I'm a **Computer Science + AI stude
 
 
 🌸 **What I’m up to:**  
-- 🌙 Designing a **dark mode UI for BodyFast** 🖤  
 - 🌷 Building my **personal website** from scratch    
 - 🍜 Learning **JavaScript animations** for interactive UIs
  <br>
