@@ -25,7 +25,6 @@ Welcome to my little corner of the internet! I'm a **Computer Science + AI stude
 - 🍫 If loving chocolate is a personality trait, then I’m very well-developed 🍫✨
 - ☕ I don’t drink coffee, but I still manage to have chaotic coder energy 🔥💻
 - 🎧 If you catch me coding in silence, something is very wrong 🚨
-- 🏃‍♀️ Dance workouts? Love. Leg day? Absolutely not. ❌😂
 - 🌙 I love staying up late, but my brain checks out after 11 PM— a mystery of science 🔍💤
 
 - ![Krisha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KrishaCoded&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical)
