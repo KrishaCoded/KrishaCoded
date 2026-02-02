@@ -4,7 +4,9 @@ Welcome to my little corner of the internet! I'm a **Computer Science + AI stude
 
 
 🌸 **What I’m up to:**  
-- 🌷 Building my **personal website** from scratch    
+- 🌷 Building my **personal website** from scratch
+- 💻 Learning Modern **Web Development** Skills
+- 🍥 pursuing **UX Certification** & Portflio Development
 - 🍜 Learning **JavaScript animations** for interactive UIs
  <br>
 
