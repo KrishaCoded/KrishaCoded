@@ -19,7 +19,7 @@ Welcome to my little corner of the internet! I'm a **Computer Science + AI stude
 
 📚 **Let’s Connect!**  
 - 🌸 [LinkedIn](www.linkedin.com/in/krisha-gurung)  
-- 🌙 [Portfolio Website (Coming Soon!)](https://github.com/KrishaCoded/MyWeb)  
+- 🌙 [My Website](https://krishacoded.github.io)  
 - 🍀 [GitHub Projects](https://github.com/KrishaCoded)  <br/>
 <br>
 
